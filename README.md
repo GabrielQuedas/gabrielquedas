@@ -1,16 +1,20 @@
-### Hi there 👋
+# Olá, meu nome é Gabriel! 😎
 
-<!--
-**GabrielQuedas/gabrielquedas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja bem-vindo! este é meu perfil do GitHub, o qual utilizo para compartilhar projetos e novos conhecimentos.
 
-Here are some ideas to get you started:
+## Sobre Mim
+- Estudante de Engenharia da Computação e grande apreciador de tecnologias.
+- Estudante da plataforma Alura.
+- Entusiasta da linguagem de programação Python.
+- Quer saber mais sobre mim? da uma passadinha lá no meu [LinkedIn](https://www.linkedin.com/in/gabrielandradequedas/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+
+- 🐍 Conhecimento da linguagem de programação Python.
+- 💻 Conhecimento em banco de dados com MySQL.
+  
+## Estudando
+
+- 🐍 Me aperfeiçoando em Pyhon.
+- 💻 Me aperfeiçoando no MySQL.
+- 💻 Estudando Javascript
