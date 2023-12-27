@@ -1,6 +1,7 @@
 # Olá, meu nome é Gabriel! 😎
 
 Seja bem-vindo! este é meu perfil do GitHub, o qual utilizo para compartilhar projetos e novos conhecimentos.
+Espero que seja de seu agrado!
 
 ## Sobre Mim
 
