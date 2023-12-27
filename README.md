@@ -16,6 +16,6 @@ Seja bem-vindo! este é meu perfil do GitHub, o qual utilizo para compartilhar p
   
 ## Estudando
 
-- 🐍 Me aperfeiçoando em Pyhon.
-- 💻 Me aperfeiçoando no MySQL.
+- 🐍 Me aperfeiçoando em Python.
+- 💻 Me aperfeiçoando em banco de dados com MySQL.
 - 💻 Estudando Javascript
